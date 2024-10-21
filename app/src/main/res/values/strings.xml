@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">RecyclerViewProjectBandeirasDoBrasil</string>
+    <string name="populacao">População do Estado</string>
+    <string name="nome">Nome do Estado</string>
+    <string name="capital">Capital do Estado</string>
+    <string name="regiao">Região do Estado</string>
+    <string name="AC">Acre</string>
+    <string name="AL">Alagoas</string>
+    <string name="AM">Amazonas</string>
+    <string name="AP">Amapá</string>
+    <string name="BA">Bahia</string>
+    <string name="CE">Ceará</string>
+    <string name="DF">Distrito Federal</string>
+    <string name="ES">Espírito Santo</string>
+    <string name="GO">Goiás</string>
+    <string name="MA">Maranhão</string>
+    <string name="MG">Minas Gerais</string>
+    <string name="MS">Mato Grosso do Sul</string>
+    <string name="MT">Mato Grosso</string>
+    <string name="PA">Pará</string>
+    <string name="PB">Paraíba</string>
+    <string name="PE">Pernambuco</string>
+    <string name="PI">Piauí</string>
+    <string name="PR">Paraná</string>
+    <string name="RJ">Rio de Janeiro</string>
+    <string name="RN">Rio Grande do Norte</string>
+    <string name="RO">Rondônia</string>
+    <string name="RS">Rio Grande do Sul</string>
+    <string name="SC">Santa Catarina</string>
+    <string name="SE">Sergipe</string>
+    <string name="SP">São Paulo</string>
+    <string name="TO">Tocantins</string>
+</resources>

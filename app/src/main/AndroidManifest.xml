@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.RecyclerViewProjectBandeirasDoBrasil"
+        tools:targetApi="31">
+        <activity
+            android:name=".activities.TOActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.SPActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.SEActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.SCActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.RRActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.ROActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.RJActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.RSActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.RNActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.PIActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.PEActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.PAActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.PBActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.PRActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.MGActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.MSActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.MTActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.MAActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.GOActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.ESActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.DFActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.CEActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.BAActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.AMActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.APActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.ALActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.ACActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
